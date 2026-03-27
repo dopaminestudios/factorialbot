@@ -1,6 +1,6 @@
 ﻿# Factorial Bot by Dopamine Studios
 
-A specialized Discord bot built with `discord.py` on top of [Dopamine Framework](https://github.com/dopaminestudios/dopamine-framework) that silently monitors conversations to catch accidental factorials. When a user sends a message that contains digit(s) followed by an exclamation mark `!`,, the bot formats replies to the message with the solution to that factorial expression.
+A specialized Discord bot built with `discord.py` on top of [Dopamine Framework](https://github.com/dopaminestudios/dopamine-framework) that silently monitors conversations to catch accidental factorials. When a user sends a message that contains digit(s) followed by an exclamation mark `!`, the bot formats replies to the message with the solution to that factorial expression.
 
 ---
 
